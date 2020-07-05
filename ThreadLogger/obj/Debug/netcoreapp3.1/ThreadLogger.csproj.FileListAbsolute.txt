@@ -1,0 +1,13 @@
+/home/sin/programs/ThreadLogger/bin/Debug/netcoreapp3.1/ThreadLogger
+/home/sin/programs/ThreadLogger/bin/Debug/netcoreapp3.1/ThreadLogger.deps.json
+/home/sin/programs/ThreadLogger/bin/Debug/netcoreapp3.1/ThreadLogger.runtimeconfig.json
+/home/sin/programs/ThreadLogger/bin/Debug/netcoreapp3.1/ThreadLogger.runtimeconfig.dev.json
+/home/sin/programs/ThreadLogger/bin/Debug/netcoreapp3.1/ThreadLogger.dll
+/home/sin/programs/ThreadLogger/bin/Debug/netcoreapp3.1/ThreadLogger.pdb
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.csprojAssemblyReference.cache
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.AssemblyInfoInputs.cache
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.AssemblyInfo.cs
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.csproj.CoreCompileInputs.cache
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.dll
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.pdb
+/home/sin/programs/ThreadLogger/obj/Debug/netcoreapp3.1/ThreadLogger.genruntimeconfig.cache
